@@ -15,6 +15,6 @@ cd 15Si
 
 python2 install_bahan.py
 
-python2 15S!.py
+python2 15si.py
 
 done..!
